@@ -2,7 +2,11 @@
 
 ## About Bash projects
 
+
 ## Resources
+
+### Read or watch:
+- [Permissions](http://linuxcommand.org/lc3_lts0090.php)
 
 ### man or help:
 - chmod
